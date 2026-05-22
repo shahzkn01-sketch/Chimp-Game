@@ -1,5 +1,6 @@
 # Installation Guide
 
+
 Here are the steps to install Pygame based on the repository's documentation, followed by a clean, professional README.md file you can use for your own project.
 
 ## Steps to Install Python on Windows
