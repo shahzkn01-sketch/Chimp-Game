@@ -15,8 +15,8 @@ Here are the steps to install Pygame based on the repository's documentation, fo
 
 5. **Verify the Installation**: 
    - Open the Command Prompt (cmd).
-   - Type `python --version` and press Enter. It should return your installed version (e.g., Python 3.12.x).
-
+   - Type `python --version` and press Enter. It should return your installed version (e.g., Python 3.12.x)
+   - Note: The version required for Pygame is 3.12.10
 ## Steps to Install Pygame
 
 ### 1. Verify Pip Installation
